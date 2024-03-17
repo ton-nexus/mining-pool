@@ -2,11 +2,11 @@
 
 This API allows miners to interact with the Gram Mining Pool backend to fetch tasks and submit solutions.
 
-[Telegram Developers Chat](https://t.me/GramMiningChat/14133) | [Telegram News Channel](https://t.me/GramMiningPool) | [Pool Official Web-site](https://pool.gramcoin.org)
+[Telegram News Channel](https://t.me/nexusofficialcommunity) | [Twitter](https://twitter.com/nexuston) | [Pool Official Web-site](https://pool.nexus.com)
 
 ## API Host
 ```
-https://api-pool.gramcoin.org
+https://api-pool.nexus.com
 ```
 
 ## Get Task
