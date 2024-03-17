@@ -1,6 +1,6 @@
-# Gram Mining Pool Backend API
+# Nexus Mining Pool Backend API
 
-This API allows miners to interact with the Gram Mining Pool backend to fetch tasks and submit solutions.
+This API allows miners to interact with the Nexus Mining Pool backend to fetch tasks and submit solutions.
 
 [Telegram News Channel](https://t.me/nexusofficialcommunity) | [Twitter](https://twitter.com/nexuston) | [Pool Official Web-site](https://pool.nexus.com)
 
